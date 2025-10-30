@@ -13,6 +13,8 @@ The Prakriti Identifier App is a React-based web application that helps users di
 * Display of user’s dominant Prakriti and selections
 * Clean, responsive, and user-friendly interface
 
+## 📂 Project Structure
+
 ```bash
 prakriti-identifier-react/
 ├── public/                     # Public assets (index.html, favicon, etc.)

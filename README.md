@@ -12,6 +12,32 @@ The Prakriti Identifier App is a React-based web application that helps users di
 > Display of user’s dominant Prakriti and selections.
 > Clean, responsive, and user-friendly interface.
 
+## Project Structure
+
+prakriti-identifier-react/
+│
+├── 📄 README.md                 # Project documentation
+├── 📄 package.json              # Project dependencies and scripts
+├── 📄 package-lock.json         # Dependency lock file (auto-generated)
+├── 📄 .gitignore                # Files and folders ignored by Git
+│
+├── 📁 public/                   # Static files served by the app
+│   ├── 📄 index.html            # Main HTML template
+│   ├── 📄 favicon.ico           # App icon
+│   └── 📄 manifest.json         # Web app metadata
+│
+├── 📁 src/                      # Main source code
+│   ├── 📄 App.js                # Main React component (Prakriti logic + UI)
+│   ├── 📄 App.css               # Custom CSS styling
+│   ├── 📄 index.js              # Entry point to render the app
+│   ├── 📄 reportWebVitals.js    # (Optional) Performance tracking
+│   ├── 📄 setupTests.js         # (Optional) Jest test setup
+│   └── 📁 assets/               # (Optional) Images or static resources
+│       └── logo.png
+│
+└── 📁 node_modules/             # Installed dependencies (auto-generated)
+
+
 ## Installation Steps 
 
 Step 1 : Clone the Repository

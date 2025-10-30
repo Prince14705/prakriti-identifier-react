@@ -37,26 +37,26 @@ prakriti-identifier-react/
 ```bash
 git clone https://github.com/yourusername/prakriti-identifier-app.git
 ```
-Navigate to the Project Folder:
+* Navigate to the Project Folder:
 ```bash
 cd prakriti-identifier-app
 ```
-Install Dependencies:
+* Install Dependencies:
 ```bash
 npm install
 ```
 
 ## 🚀 How to Run the Project
 
-Start the Development Server:
+* Start the Development Server:
 ```bash
 npm start
 ```
-Open your browser and go to:
+* Open your browser and go to:
 ```bash
 http://localhost:3000
 ```
-Answer all the questions, click Submit, and view your Prakriti Analysis Result instantly.
+* Answer all the questions, click Submit, and view your Prakriti Analysis Result instantly.
 
 ## 💡 Technologies Used
 

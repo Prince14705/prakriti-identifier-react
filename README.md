@@ -9,7 +9,6 @@
 * Interactive questionnaire with categorized sections
 * Real-time state management using React Hooks
 * Intelligent Prakriti analysis logic
-* Validations for mandatory answers
 * Display of user’s dominant Prakriti and selections
 * Clean, responsive, and user-friendly interface
 

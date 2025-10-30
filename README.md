@@ -14,7 +14,7 @@ The Prakriti Identifier App is a React-based web application that helps users di
 
 ## Project Structure
 
-prakriti-identifier-react/
+'''prakriti-identifier-react/
 │
 ├── 📄 README.md                 # Project documentation
 ├── 📄 package.json              # Project dependencies and scripts
@@ -35,7 +35,7 @@ prakriti-identifier-react/
 │   └── 📁 assets/               # (Optional) Images or static resources
 │       └── logo.png
 │
-└── 📁 node_modules/             # Installed dependencies (auto-generated)
+└── 📁 node_modules/             # Installed dependencies (auto-generated)'''
 
 
 ## Installation Steps 

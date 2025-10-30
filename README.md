@@ -1,53 +1,48 @@
 # prakriti-identifier-react
 
-# 🌿 Prakriti Identifier (React App)
+## Project Description
 
-## 📖 Project Description
+The Prakriti Identifier App is a React-based web application that helps users discover their Ayurvedic Prakriti type — Vata, Pitta, or Kapha — based on their physical, emotional, and lifestyle traits.each answer contributes to one of the three doshas — Vata, Pitta, or Kapha — and the app tallies the results to determine the user’s natural Ayurvedic composition. It then displays the dominant Prakriti type, along with a breakdown of dosha counts and the user’s selected responses.It is designed with React functional components and custom CSS styling, ensuring a clean, minimal, and responsive user interface.
 
-The **Prakriti Identifier App** is a React-based web application designed to help users identify their Ayurvedic body type — **Vata**, **Pitta**, or **Kapha** — through a guided multiple-choice questionnaire.  
-It evaluates a user’s **physical traits**, **mental tendencies**, and **lifestyle habits** to analyze and determine the dominant **dosha (body constitution)** according to Ayurvedic principles.
+## ⚙️ Features
 
-Once all questions are answered, the app processes responses to determine the user’s **dominant Prakriti** type.  
-It then displays the result along with the user’s selected answers, providing a clear understanding of their Ayurvedic constitution.  
-The clean and responsive UI ensures an easy and interactive experience, making the app ideal for beginners exploring Ayurveda or developers learning React fundamentals.
+* Interactive questionnaire with categorized sections
+* Real-time state management using React Hooks
+* Intelligent Prakriti analysis logic
+* Validations for mandatory answers
+* Display of user’s dominant Prakriti and selections
+* Clean, responsive, and user-friendly interface
 
----
+## 🛠️ Installation Steps
 
-## ⚙️ Installation Steps
+Clone the Repository:
+'''bash
+git clone https://github.com/yourusername/prakriti-identifier-app.git
 
-Follow these steps to set up and run the project locally:
+Navigate to the Project Folder:
+'''bash
+cd prakriti-identifier-app
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/prakriti-identifier-react.git
-Navigate to the project folder
-cd prakriti-identifier-react
-Install dependencies
+Install Dependencies:
+'''bash
 npm install
-Start the development server
+
+## 🚀 How to Run the Project
+
+Start the Development Server:
+'''bash
 npm start
-Open your browser and visit:
+
+Open your browser and go to:
+'''bash
 http://localhost:3000
-🧩 Project Structure
-src/
-├── assets/         # Static assets (images, icons, etc.)
-├── components/     # Reusable UI components
-├── context/        # React context providers
-├── pages/          # Page-level components
-├── styles/         # CSS styles
-├── utils/          # Utility/helper functions
-└── App.jsx         # Main application component
-🧠 Technologies Used
-React JS – Frontend library for building user interfaces
-HTML5 / CSS3 – Structure and styling
-JavaScript (ES6+) – Core logic and interactivity
-Node.js & npm – Development environment and package management
 
-## Features
+Answer all the questions, click Submit, and view your Prakriti Analysis Result instantly.
+💡 Technologies Used
 
-> Interactive questionnaire with categorized sections.
-> Real-time state management using React Hooks.
-> Intelligent Prakriti analysis logic.
-> Display of user’s dominant Prakriti and selections.
-> Clean, responsive, and user-friendly interface.
-
+* React.js
+* JavaScript (Functional Components, Hooks)
+* Custom CSS for styling
+  
+📜 License
+* This project is open-source and available under the MIT License.

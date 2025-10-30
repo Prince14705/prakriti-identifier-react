@@ -34,11 +34,12 @@ Start the Development Server:
 npm start
 
 Open your browser and go to:
-'''bash
+```bash
 http://localhost:3000
 
 Answer all the questions, click Submit, and view your Prakriti Analysis Result instantly.
-💡 Technologies Used
+
+## 💡 Technologies Used
 
 * React.js
 * JavaScript (Functional Components, Hooks)

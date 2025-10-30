@@ -1,8 +1,47 @@
 # prakriti-identifier-react
 
-## Project Description
+# 🌿 Prakriti Identifier (React App)
 
-The Prakriti Identifier App is a React-based web application that helps users discover their Ayurvedic Prakriti type — Vata, Pitta, or Kapha — based on their physical, emotional, and lifestyle traits.each answer contributes to one of the three doshas — Vata, Pitta, or Kapha — and the app tallies the results to determine the user’s natural Ayurvedic composition. It then displays the dominant Prakriti type, along with a breakdown of dosha counts and the user’s selected responses.It is designed with React functional components and custom CSS styling, ensuring a clean, minimal, and responsive user interface.
+## 📖 Project Description
+
+The **Prakriti Identifier App** is a React-based web application designed to help users identify their Ayurvedic body type — **Vata**, **Pitta**, or **Kapha** — through a guided multiple-choice questionnaire.  
+It evaluates a user’s **physical traits**, **mental tendencies**, and **lifestyle habits** to analyze and determine the dominant **dosha (body constitution)** according to Ayurvedic principles.
+
+Once all questions are answered, the app processes responses to determine the user’s **dominant Prakriti** type.  
+It then displays the result along with the user’s selected answers, providing a clear understanding of their Ayurvedic constitution.  
+The clean and responsive UI ensures an easy and interactive experience, making the app ideal for beginners exploring Ayurveda or developers learning React fundamentals.
+
+---
+
+## ⚙️ Installation Steps
+
+Follow these steps to set up and run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/prakriti-identifier-react.git
+Navigate to the project folder
+cd prakriti-identifier-react
+Install dependencies
+npm install
+Start the development server
+npm start
+Open your browser and visit:
+http://localhost:3000
+🧩 Project Structure
+src/
+├── assets/         # Static assets (images, icons, etc.)
+├── components/     # Reusable UI components
+├── context/        # React context providers
+├── pages/          # Page-level components
+├── styles/         # CSS styles
+├── utils/          # Utility/helper functions
+└── App.jsx         # Main application component
+🧠 Technologies Used
+React JS – Frontend library for building user interfaces
+HTML5 / CSS3 – Structure and styling
+JavaScript (ES6+) – Core logic and interactivity
+Node.js & npm – Development environment and package management
 
 ## Features
 
@@ -12,53 +51,3 @@ The Prakriti Identifier App is a React-based web application that helps users di
 > Display of user’s dominant Prakriti and selections.
 > Clean, responsive, and user-friendly interface.
 
-## Project Structure
-
-'''prakriti-identifier-react/
-│
-├── 📄 README.md                 # Project documentation
-├── 📄 package.json              # Project dependencies and scripts
-├── 📄 package-lock.json         # Dependency lock file (auto-generated)
-├── 📄 .gitignore                # Files and folders ignored by Git
-│
-├── 📁 public/                   # Static files served by the app
-│   ├── 📄 index.html            # Main HTML template
-│   ├── 📄 favicon.ico           # App icon
-│   └── 📄 manifest.json         # Web app metadata
-│
-├── 📁 src/                      # Main source code
-│   ├── 📄 App.js                # Main React component (Prakriti logic + UI)
-│   ├── 📄 App.css               # Custom CSS styling
-│   ├── 📄 index.js              # Entry point to render the app
-│   ├── 📄 reportWebVitals.js    # (Optional) Performance tracking
-│   ├── 📄 setupTests.js         # (Optional) Jest test setup
-│   └── 📁 assets/               # (Optional) Images or static resources
-│       └── logo.png
-│
-└── 📁 node_modules/             # Installed dependencies (auto-generated)'''
-
-
-## Installation Steps 
-
-Step 1 : Clone the Repository
-         "git clone https://github.com/yourusername/prakriti-identifier.git"
-
-Step 2 : Navigate to the Project Folder
-         "cd prakriti-identifier"
-
-Step : Install Dependencies
-       "npm install"
-
-## How to Run the Project 
-
-Step 1 : Start the Development Server
-         "npm start"
-
-Step 2 : Open your browser and go to
-         "http://localhost:3000"
-
-Answer all the questions, click Submit, and view your Prakriti Analysis Result instantly.
-
-## Technologies Used 
-
-React.js,JavaScript (Functional Components, Hooks) and Custom CSS for styling.

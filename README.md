@@ -34,11 +34,11 @@ prakriti-identifier-react/
 
 ## Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/prakriti-identifier-app.git
+git clone https://github.com/yourusername/prakriti-identifier.git
 ```
 * Navigate to the Project Folder:
 ```bash
-cd prakriti-identifier-app
+cd prakriti-identifier
 ```
 * Install Dependencies:
 ```bash

@@ -15,8 +15,8 @@ The Prakriti Identifier App is a React-based web application that helps users di
 
 ## 🛠️ Installation Steps
 
-Clone the Repository:
-```bash
+## Clone the Repository:
+'''bash
 
 git clone https://github.com/yourusername/prakriti-identifier-app.git...
 

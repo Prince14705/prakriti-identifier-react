@@ -64,5 +64,6 @@ Answer all the questions, click Submit, and view your Prakriti Analysis Result i
 * JavaScript (Functional Components, Hooks)
 * Custom CSS for styling
   
-📜 License
+## 📜 License
+
 * This project is open-source and available under the MIT License.

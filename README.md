@@ -17,24 +17,25 @@ The Prakriti Identifier App is a React-based web application that helps users di
 
 Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/prakriti-identifier-app.git```
+
+git clone https://github.com/yourusername/prakriti-identifier-app.git...
 
 Navigate to the Project Folder:
-```bash
+bash
 cd prakriti-identifier-app```
 
 Install Dependencies:
-```bash
+bash
 npm install```
 
 ## 🚀 How to Run the Project
 
 Start the Development Server:
-```bash
+bash
 npm start```
 
 Open your browser and go to:
-```bash
+bash
 http://localhost:3000
 
 Answer all the questions, click Submit, and view your Prakriti Analysis Result instantly.
